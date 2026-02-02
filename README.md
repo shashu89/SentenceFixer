@@ -1,2 +1,2 @@
 # chat-bot
-chatBot using OpenAI
+SentenceFixer using OpenAI
